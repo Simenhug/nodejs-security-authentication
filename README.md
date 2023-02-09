@@ -10,3 +10,4 @@ multiple levels of security:
 ## Level 3: md5 hashing
 ## level 4: bycrypt hashing with salt rounds
 ## level 5: cookies and sessions
+## level 6: third party OAuth
